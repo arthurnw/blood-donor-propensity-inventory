@@ -4,6 +4,3 @@ For my practicum/capstone project, I worked with a non-profit blood donation org
 2. Forecasting of aggregate donations for planning
 
 The final report submitted to Georgia Tech and the partnering organization is included in the `/reports` directory. All of my code is also included in `/notebooks`.
-
-# Additional Notes
-* The first column of `2015.csv` was named `random_ID` instead of `Random_ID`. I manually modified this.
